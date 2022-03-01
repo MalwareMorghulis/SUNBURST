@@ -69,20 +69,20 @@ Leveraging RedCanary's results for DGA analysis, this script takes URL and calcu
 4) shannon.py (2.0) - Combining 1.0 w/ dictionary.py tested functions.
     
 # Reference:
-# Splunk Shannon Entropy - where the idea came from*
+Splunk Shannon Entropy - where the idea came from*
 https://www.splunk.com/en_us/blog/tips-and-tricks/when-entropy-meets-shannon.html
     
-# SANS Mark Baggett - Tool RedCanary used to analyze Alexa Top 1M
+SANS Mark Baggett - Tool RedCanary used to analyze Alexa Top 1M
 https://github.com/markbaggett/freq
     
-# RedCanary - Blog where Probability scores come from
-# https://redcanary.com/blog/threat-hunting-entropy/
+RedCanary - Blog where Probability scores come from
+https://redcanary.com/blog/threat-hunting-entropy/
     
-# Alexa's Top 1M Domains - Data Corpus used by RedCanary
+Alexa's Top 1M Domains - Data Corpus used by RedCanary
 https://www.alexa.com/topsites
 
-# DGA Detector
+DGA Detector
 https://github.com/exp0se/dga_detector
     
-# Shannon Entropy - Formula
+Shannon Entropy - Formula
 https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800
